@@ -1,5 +1,5 @@
 # About-Me
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Python Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abalesluke&label=Profile%20views&color=0e75b6&style=flat" alt="abalesluke" /> </p>
 
