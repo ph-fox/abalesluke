@@ -1,5 +1,5 @@
 # About-Me
-### <h1 align="center">Hi!, Im Anikin Luke</h1>
+### <h1 align="center">Hi!🤵👋, Im Anikin Luke</h1>
 <h3 align="center">A passionate Python Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abalesluke&label=Profile%20views&color=0e75b6&style=flat" alt="abalesluke" /> </p>
