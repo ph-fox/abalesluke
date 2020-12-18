@@ -19,7 +19,7 @@
 <p><a href="https://www.buymeacoffee.com/AnikinLuke"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AnikinLuke" /></a></p><br><br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abalesluke&show_icons=true&locale=en&layout=compact" alt="abalesluke" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abalesluke&show_icons=true&locale=en" alt="abalesluke" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abalesluke&" alt="abalesluke" /></p>
