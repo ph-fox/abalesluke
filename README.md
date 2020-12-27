@@ -7,8 +7,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abalesluke" alt="abalesluke" /></a> </p>
 
 - 📚 I’m currently learning **Python and C++**
-## CTF Platforms
+## 🏁CTF Platforms
+# Hack The Box
 ![htb](http://www.hackthebox.eu/badge/image/407532)
+# Try Hack Me
 ![thm](https://github.com/abalesluke/abalesluke/blob/main/thmninjutsu354.png)
 
 <h3 align="left">Connect with me:</h3>
