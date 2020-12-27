@@ -8,9 +8,9 @@
 
 - 📚 I’m currently learning **Python and C++**
 ## 🏁CTF Platforms
-# Hack The Box
+#### Hack The Box
 ![htb](http://www.hackthebox.eu/badge/image/407532)
-# Try Hack Me
+#### Try Hack Me
 ![thm](https://github.com/abalesluke/abalesluke/blob/main/thmninjutsu354.png)
 
 <h3 align="left">Connect with me:</h3>
