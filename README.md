@@ -9,7 +9,7 @@
 - 📚 I’m currently learning **Python and C++**
 ## CTF Platforms
 ![htb](http://www.hackthebox.eu/badge/image/407532)
-![thm](https://tryhackme.com/badge/154300)
+![thm](https://github.com/abalesluke/abalesluke/blob/main/thmninjutsu354.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
