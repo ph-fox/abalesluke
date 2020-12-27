@@ -8,8 +8,8 @@
 
 - 📚 I’m currently learning **Python and C++**
 ## CTF Platforms
-![](http://www.hackthebox.eu/badge/image/407532")
-![]("https://tryhackme-badges.s3.amazonaws.com/ninjutsu354.png")
+![htb](http://www.hackthebox.eu/badge/image/407532)
+![thm](https://tryhackme-badges.s3.amazonaws.com/ninjutsu354.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
