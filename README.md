@@ -7,7 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abalesluke" alt="abalesluke" /></a> </p>
 
 - 📚 I’m currently learning **Python and C++**
-<script src="https://www.hackthebox.eu/badge/407532"></script>
+[!](http://www.hackthebox.eu/badge/image/407532")
+[!](https://tryhackme-badges.s3.amazonaws.com/ninjutsu354.png)
+
 <script src="https://tryhackme.com/badge/154300"></script>
 
 <h3 align="left">Connect with me:</h3>
