@@ -24,7 +24,7 @@
 ![python solo learn](https://github.com/abalesluke/abalesluke/blob/main/solo%20learn%20cert.jpg)
 ![udemy ethical hacking](https://github.com/abalesluke/abalesluke/blob/main/Ethical%20hacking%20cert.jpg)
 
-<h3 align="left">Languages and Tools:</h3>
+#### Languages and Tools:
 ![py](https://github.com/abalesluke/abalesluke/blob/main/logo/python.png)
 ![cpp](https://github.com/abalesluke/abalesluke/blob/main/logo/c%2B%2B.png)
 
