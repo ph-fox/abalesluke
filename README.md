@@ -25,8 +25,8 @@
 ![udemy ethical hacking](https://github.com/abalesluke/abalesluke/blob/main/Ethical%20hacking%20cert.jpg)
 
 <h3 align="left">Languages and Tools:</h3>
-![python](http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png)
-![pythona](http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png)
+![py](https://github.com/abalesluke/abalesluke/blob/main/logo/python.png)
+![cpp](https://github.com/abalesluke/abalesluke/blob/main/logo/c%2B%2B.png)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/AnikinLuke"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AnikinLuke" /></a></p><br><br>
