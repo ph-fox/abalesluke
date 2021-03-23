@@ -1,6 +1,6 @@
 # About-Me
-### <h1 align="center">Hi!🤵👋, Im Anikin Luke</h1>
-<h3 align="center">A passionate Python Dev / CyberSecurity Student</h3>
+### <h1 align="center">Greetings!, It is I Anikin Luke</h1>
+<h3 align="center">A Dev and a CyberSecurity Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abalesluke&label=Profile%20views&color=0e75b6&style=flat" alt="abalesluke" /> </p>
 
@@ -17,12 +17,6 @@
 <p align="left">
 <a href="https://fb.com/anikinscorpion" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="anikinscorpion" height="30" width="40" /></a>
 </p>
-
-#### 📜 Certificates 📜
-
-![aoc2](https://github.com/abalesluke/abalesluke/blob/main/THM-2XBYVV2MTH.png)
-![python solo learn](https://github.com/abalesluke/abalesluke/blob/main/solo%20learn%20cert.jpg)
-![udemy ethical hacking](https://github.com/abalesluke/abalesluke/blob/main/Ethical%20hacking%20cert.jpg)
 
 #### Languages and Tools:
 
