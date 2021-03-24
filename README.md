@@ -1,5 +1,5 @@
 # About-Me
-<img src="https://github.com/abalesluke/abalesluke/blob/main/logo/lime%20and%20red.gif" height="25px" width="25px"> ### <h1 align="center">Greetings!, It is I Anikin Luke</h1>
+### <h1 align="center"><img src="https://github.com/abalesluke/abalesluke/blob/main/logo/lime%20and%20red.gif" height="25px" width="25px">Greetings!, It is I Anikin Luke</h1>
 
 <h3 align="center">A Dev and a CyberSecurity Student</h3>
 
