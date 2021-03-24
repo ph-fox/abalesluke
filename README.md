@@ -1,7 +1,7 @@
 # About-Me
 ### <h1 align="center"><img src="https://github.com/abalesluke/abalesluke/blob/main/logo/lime-and-red.gif" height="50px" width="50px">Greetings!, It is I Anikin Luke<img src="https://github.com/abalesluke/abalesluke/blob/main/logo/lime-and-red.gif" height="50px" width="50px">
 </h1>
-<h3 align="center">A Dev and a CyberSecurity Student</h3>
+<h3 align="center"><img src="https://github.com/abalesluke/abalesluke/blob/main/logo/virus.gif" height="40px" width="40px"> A Dev and a CyberSecurity Student <img src="https://github.com/abalesluke/abalesluke/blob/main/logo/virus.gif" height="40px" width="40px"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abalesluke&label=Profile%20views&color=0e75b6&style=flat" alt="abalesluke" /> </p>
 
