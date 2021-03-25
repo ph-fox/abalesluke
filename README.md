@@ -3,10 +3,13 @@
 </h1>
 <h3 align="center"><img src="https://github.com/abalesluke/abalesluke/blob/main/logo/rainbows%20cubes.gif" height="100px" width="100px"> A Dev and a CyberSecurity Student <img src="https://github.com/abalesluke/abalesluke/blob/main/logo/rainbows%20cubes.gif" height="100px" width="100px"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abalesluke&label=Profile%20views&color=0e75b6&style=flat" alt="abalesluke" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abalesluke&label=Profile%20views&color=0e75b6&style=flat" alt="abalesluke" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abalesluke" alt="abalesluke" /></a> </p>
-
+<details>
+  <summary>
+    "🏆GITHUB AWARDS"
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abalesluke" alt="abalesluke" /></a> </p>
+</details>
 - 📚 I’m currently learning **Python and C++**
 ## 🏁CTF Platforms
 #### Hack The Box and Try Hack Me
