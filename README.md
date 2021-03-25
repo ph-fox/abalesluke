@@ -7,13 +7,13 @@
 
 <details>
   <summary>
-    ::marker
+
      🏆GITHUB AWARDS
   </summary>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abalesluke" alt="abalesluke" /></a> </p>
 </details>
-::after
-- 📚 I’m currently learning **Python and C++
+
+
 ## 🏁CTF Platforms
 #### Hack The Box and Try Hack Me
 ![htb](http://www.hackthebox.eu/badge/image/407532)![thm](https://github.com/abalesluke/abalesluke/blob/main/ninjutsu354.png)
