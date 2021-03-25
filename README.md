@@ -8,6 +8,7 @@
 <details>
   <summary>
     "🏆GITHUB AWARDS"
+  </summary>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abalesluke" alt="abalesluke" /></a> </p>
 </details>
 - 📚 I’m currently learning **Python and C++**
