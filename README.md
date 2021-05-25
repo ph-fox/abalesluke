@@ -13,6 +13,6 @@
 
 ## 🎧Spotify
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/playlist/5uz8YZ02Ux6fcY5lDDV9Ab)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abalesluke" alt="abalesluke" /></a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abalesluke&show_icons=true&locale=en&layout=compact" alt="abalesluke" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abalesluke&" alt="abalesluke" /></p>
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=abalesluke&show_icons=true&theme=tokyonight)
+![Anikin Luke Abales](https://github-readme-stats.vercel.app/api?username=abalesluke&show_icons=true&theme=tokyonight)
