@@ -5,7 +5,7 @@
 <a href="https://bmc.xyz/anikinluke" rel="nofollow"><img src="https://camo.githubusercontent.com/65eb4f73d03130cd15379e0860c8d369213036fb4a730fb96f05091ed22d51fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4275794d6561436f666665652d2532334646444430302e7376673f267374796c653d666c61742d737175617265266c6f676f3d6275792d6d652d612d636f66666565266c6f676f436f6c6f723d626c61636b" alt="BMC" data-canonical-src="https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&amp;style=flat-square&amp;logo=buy-me-a-coffee&amp;logoColor=black" style="max-width:100%;"></a> 
 
 > I'm a Filipino opensource python developer, student penetration tester from Philippines!
-* 📚 Currently Learning php | Assembly | Reverse Eningeering | Pivoting.
+* 📚 Currently C# | Golang
 * 🌐 Check Out My Website [here](https://anikinlukeabales.rf.gd).
 
 ## <img src="https://img.icons8.com/nolan/25/computer.png"/>Technologies
